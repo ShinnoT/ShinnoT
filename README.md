@@ -1,3 +1,5 @@
+![Readme Banner 2](https://github.com/ShinnoT/portfoliov1/assets/26269548/0e69fb22-5d3c-4b2d-81c5-cca751bde004)
+
 # 💫 About Me:
 
 Hi, I'm shinno (@vagabadu), just a tech dude trying to explore random things.<br>Welcome to my digital canvas.
@@ -10,9 +12,8 @@ If you're interested in learning more about me, feel free to checkout my [portfo
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=shinnot&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shinnot&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shinnot&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shinnot&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shinnot&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
