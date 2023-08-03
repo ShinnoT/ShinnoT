@@ -1,7 +1,5 @@
 ![Readme Banner 2](https://github.com/ShinnoT/portfoliov1/assets/26269548/0e69fb22-5d3c-4b2d-81c5-cca751bde004)
 
----
-
 ## 💫 About Me:
 
 Hi, I'm shinno (@vagabadu), just a tech dude trying to explore random things.<br>Welcome to my digital canvas.
